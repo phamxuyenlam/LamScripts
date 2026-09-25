@@ -8,4 +8,7 @@ Scripts already have:
 - Shift Lock , Status: 🟢
    + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/ShiftLock.lua",true))()
 
+- First Person Visual , status: 🟢
+   + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/FirstPersonVisual.lua",true))()
+
 I thinks you will love it
