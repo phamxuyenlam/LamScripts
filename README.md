@@ -12,3 +12,7 @@ Scripts already have:
    + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/FirstPersonVisual.lua",true))()
 
 I thinks you will love it
+
+# Note
+
+All Script in this Repo is Open-source, you can use any code here without credit or anything!. It free for everyone
