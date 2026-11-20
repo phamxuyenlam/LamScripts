@@ -2,7 +2,7 @@
 I will place all my script for roblox here
 
 Scripts already have:
-- ReSave executor , Status: 🟡 ( fix bug/upgrade )
+- ReSave executor , Status: 🟡
   + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/ReSave.lua",true))()
   
 - Shift Lock , Status: 🟢
@@ -10,6 +10,9 @@ Scripts already have:
 
 - First Person Visual , status: 🟢
    + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/FirstPersonVisual.lua",true))()
+
+- Avatar Copy , Status: 🟡
+   + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/AvatarCopy.lua",true))()
 
 I thinks you will love it
 
