@@ -11,8 +11,7 @@ Scripts already have:
 - First Person Visual , status: 🟢
    + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/FirstPersonVisual.lua",true))()
 
-- Avatar Copy , Status: 🟡
-   + loadstring(game:HttpGet("https://raw.githubusercontent.com/phamxuyenlam/LamScripts/main/AvatarCopy.lua",true))()
+"All script are work on every exploit: Delta, Arceus x, Wave, Solara,..."
 
 I thinks you will love it
 
