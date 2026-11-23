@@ -18,7 +18,7 @@ local player = Players.LocalPlayer
 
 -- SETTINGS
 local CAMERA_OFFSET = Vector3.new(0, 0.95, 0)
-local SENSITIVITY = 1
+local SENSITIVITY = 1.5
 local MIN_PITCH = math.rad(-85)
 local MAX_PITCH = math.rad(85)
 
